@@ -1,0 +1,844 @@
+[I 11:48:56.926 NotebookApp] The port 10000 is already in use, trying another random port.
+[I 11:48:56.926 NotebookApp] The port 10001 is already in use, trying another random port.
+[I 11:48:56.926 NotebookApp] The port 10002 is already in use, trying another random port.
+[I 11:48:56.927 NotebookApp] The port 10003 is already in use, trying another random port.
+[I 11:48:56.933 NotebookApp] Serving notebooks from local directory: /home/carlson/Dropbox/TIM209_kalman
+[I 11:48:56.933 NotebookApp] 0 active kernels 
+[I 11:48:56.933 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:10004/
+[I 11:48:56.933 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 11:49:12.404 NotebookApp] 302 GET / (24.6.90.144) 1.21ms
+[I 11:49:12.427 NotebookApp] 302 GET /tree (24.6.90.144) 2.01ms
+[I 11:49:15.073 NotebookApp] 302 POST /login?next=%2Ftree (24.6.90.144) 2.06ms
+[I 11:49:19.283 NotebookApp] Kernel started: bd468d9d-a43b-40fc-9aaa-51cd827e7d32
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:49:33.096 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:30.563 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:40.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:51:19.390 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:53:15.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:53:19.643 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:55:20.208 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:58:01.415 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:58:33.509 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:58:47.017 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:59:20.248 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:06:13.313 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:06:34.539 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:07:19.616 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:07:29.806 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:07:36.304 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:07:46.358 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:08:06.574 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:08:45.280 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:09:19.610 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:09:59.994 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:11:19.610 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:12:02.555 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:13:19.630 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:13:32.103 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:03.494 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:22.497 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:33.031 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:40.177 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:47.890 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:50.922 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:56.413 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:15:09.490 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:15:19.683 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:15:20.327 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:16:05.152 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:16:13.264 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:16:33.524 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:17:19.634 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:17:31.576 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:17:40.990 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:17:51.970 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:18:10.489 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:18:39.991 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:19:19.607 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:19:38.644 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:19:44.932 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:19:58.805 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:20:14.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:20:42.293 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:22:06.148 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:22:21.161 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:22:24.618 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:22:52.317 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:23:19.621 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:23:34.754 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:23:43.313 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:24:55.941 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:25:19.619 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:25:31.511 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:25:49.250 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:26:14.506 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:26:21.111 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:26:51.041 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:27:19.610 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:27:32.539 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:27:44.555 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:27:56.179 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:28:09.224 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:28:17.647 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:29:19.625 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:29:39.080 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:29:51.578 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:29:59.252 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:30:06.091 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:30:25.817 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:30:32.503 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:30:56.475 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:31:06.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:31:19.624 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:31:20.287 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:31:38.099 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:31:54.705 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:32:13.383 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:33:19.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:34:20.106 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:34:34.168 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:34:39.502 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:35:19.629 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:35:52.280 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:36:33.721 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:36:40.490 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:37:00.264 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:37:15.428 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:37:34.349 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:38:35.983 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:38:40.920 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:39:19.628 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:39:25.700 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:39:39.666 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:39:55.633 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:40:02.241 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:40:44.497 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:40:54.439 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:41:11.770 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:41:19.605 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:41:25.778 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:41:31.354 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:41:39.702 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:42:57.828 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:43:00.860 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:43:05.567 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:43:07.256 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:43:19.628 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:43:26.790 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:43:53.331 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:44:16.410 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:44:19.129 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:44:23.913 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:44:36.797 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:44:59.122 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:45:01.621 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:45:19.628 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:45:36.985 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:45:57.189 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:04.133 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:10.358 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:24.306 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:34.656 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:46:44.623 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:47:19.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:49:19.660 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:50:04.070 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:50:27.161 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:50:32.676 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:50:48.481 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:51:09.260 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:51:14.326 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:51:53.494 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:53:15.507 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:53:19.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:54:10.903 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:54:55.551 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:55:17.947 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:57:19.674 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:59:19.682 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:00:43.859 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:01:19.659 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:03:19.722 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:04:27.779 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:04:29.602 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:04:46.544 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:05:19.726 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:07:19.743 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:07:29.733 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:07:43.330 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:08:18.505 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:08:54.770 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:09:19.641 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:04.936 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:10.689 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:21.110 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:24.646 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:45.920 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:58.617 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:12:15.218 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:12:29.754 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:13:09.771 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:13:19.736 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:14:58.079 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:15:19.735 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:15:39.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:15:50.788 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:15:55.025 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:17:19.723 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:19:19.707 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:21:19.710 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:23:19.724 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:25:19.715 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:25:45.954 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:27:19.738 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:29:19.698 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:31:19.737 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:34:06.687 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:35:19.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:37:19.891 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:39:19.890 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:41:19.550 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:19.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:44:42.947 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:45:19.802 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:46:15.854 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:46:20.679 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:46:29.702 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:47:05.880 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:47:19.832 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:49:17.594 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:49:36.633 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:49:48.334 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:49:52.190 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:50:27.905 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:50:40.876 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:51:19.807 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:53:01.120 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 13:53:19.800 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 13:55:19.980 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 13:57:14.327 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:01:19.970 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:03:13.862 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:03:32.291 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:03:49.448 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:05:06.425 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:05:20.098 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:05:44.776 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:05:47.503 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:06:00.284 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:06:03.837 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:06:19.030 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:06:47.362 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:07:06.168 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:07:16.768 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:07:26.098 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:07:36.845 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:07:39.752 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:08:20.214 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:08:26.787 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:08:47.837 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:08:59.270 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:09:19.810 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:09:57.363 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:11:20.839 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:13:20.804 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:15:20.818 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:17:21.454 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:19:20.807 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:20:33.460 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:23:20.801 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:25:20.805 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:25:35.289 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:26:02.909 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:26:24.701 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:26:36.355 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:26:44.954 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:26:56.623 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:27:04.514 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:27:20.809 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:27:37.280 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:27:42.346 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:27:58.841 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:29:20.850 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:31:21.097 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:33:02.886 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:33:21.101 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:33:34.264 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:35:21.091 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:35:44.525 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:36:09.315 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:37:21.080 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:39:21.052 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:39:27.074 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:39:50.041 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:40:11.896 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:40:30.413 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:40:53.763 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:41:01.121 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:41:06.508 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:41:16.286 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:41:20.948 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:41:22.400 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:43:21.302 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:45:22.489 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:45:23.027 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:45:33.469 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:45:36.699 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:45:40.394 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:45:48.670 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:46:27.164 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:47:05.120 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:47:20.320 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:48:26.315 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:49:20.824 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:51:18.347 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:53:20.852 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:55:20.868 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:57:20.858 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:59:20.860 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:59:34.874 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:59:40.931 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 14:59:51.100 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:00:20.808 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:00:33.300 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:00:50.842 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:01:18.426 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:01:24.861 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:01:39.114 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:02:10.453 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:02:11.732 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:02:21.342 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:02:36.736 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:03:12.729 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:03:21.719 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:03:22.382 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:03:28.149 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:03:50.864 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:05:21.521 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:07:20.881 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:08:55.572 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:09:20.863 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:11:13.296 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:11:20.870 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:13:20.934 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:13:44.436 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:15:20.932 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:15:30.317 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:17:20.903 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:18:32.115 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:19:00.931 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:19:13.705 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:19:20.931 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:20:07.761 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:20:42.117 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:20:52.418 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:20:56.926 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:21:20.922 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:21:32.743 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:21:43.247 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:22:49.622 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:22:52.156 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:23:55.184 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:24:24.658 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:24:29.496 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:24:34.373 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:25:20.906 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:25:39.085 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:25:55.965 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:26:18.836 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:26:54.771 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:27:26.647 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:27:34.228 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:27:40.369 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:27:43.615 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:27:50.680 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:28:11.630 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:28:19.060 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:28:26.750 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:28:44.552 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:28:50.737 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:29:02.188 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:29:10.611 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:29:36.428 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:30:55.481 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:01.849 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:09.356 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:16.704 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:24.730 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:26.438 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:42.257 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:48.670 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:31:59.661 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:32:07.967 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:32:15.361 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:32:28.290 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:32:45.658 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:32:52.613 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:33:09.288 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:33:20.871 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:33:23.694 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:33:35.224 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:33:43.934 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:33:58.379 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:34:58.534 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:35:20.961 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:35:22.212 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:35:27.745 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:35:39.059 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:35:49.017 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:35:50.461 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:36:58.332 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:37:07.197 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:37:10.056 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:37:20.939 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:39:20.940 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:40:24.636 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:40:42.195 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:40:46.918 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:41:17.008 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:41:44.049 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:41:50.185 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:42:02.197 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:42:08.518 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:42:25.863 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:43:20.984 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:43:51.585 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:45:20.973 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:47:20.925 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:48:05.324 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:48:08.716 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:48:19.197 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:49:07.295 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:49:20.980 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:49:26.867 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:49:31.535 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:49:45.298 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:49:56.620 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:50:27.470 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:50:34.034 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:50:43.774 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:50:45.975 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:50:47.388 NotebookApp] Kernel restarted: bd468d9d-a43b-40fc-9aaa-51cd827e7d32
+[W 15:50:47.391 NotebookApp] zmq message arrived on closed channel
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+---------------------------------------------------------------------------
+ZMQError                                  Traceback (most recent call last)
+<string> in <module>()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in main()
+    410     """Run an IPKernel as an application"""
+    411     app = IPKernelApp.instance()
+--> 412     app.initialize()
+        app.initialize = <bound method IPKernelApp.initialize of <ipykernel.kernelapp.IPKernelApp object at 0x7fc438d65050>>
+    413     app.start()
+    414 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+
+/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.pyc in catch_config_error(method=<function initialize>, app=<ipykernel.kernelapp.IPKernelApp object>, *args=(None,), **kwargs={})
+     73     """
+     74     try:
+---> 75         return method(app, *args, **kwargs)
+        method = <function initialize at 0x7fc438cd7b18>
+        app = <ipykernel.kernelapp.IPKernelApp object at 0x7fc438d65050>
+        args = (None,)
+        kwargs = {}
+     76     except (TraitError, ArgumentError) as e:
+     77         app.print_help()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+    371         self.init_connection_file()
+    372         self.init_poller()
+--> 373         self.init_sockets()
+        self.init_sockets = <bound method IPKernelApp.init_sockets of <ipykernel.kernelapp.IPKernelApp object at 0x7fc438d65050>>
+    374         self.init_heartbeat()
+    375         # writing/displaying connection info must be *after* init_sockets/heartbeat
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in init_sockets(self=<ipykernel.kernelapp.IPKernelApp object>)
+    227         self.shell_socket = context.socket(zmq.ROUTER)
+    228         self.shell_socket.linger = 1000
+--> 229         self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+        self.shell_port = 37346
+        self._bind_socket = <bound method IPKernelApp._bind_socket of <ipykernel.kernelapp.IPKernelApp object at 0x7fc438d65050>>
+        self.shell_socket = <zmq.sugar.socket.Socket object at 0x7fc438d84c80>
+    230         self.log.debug("shell ROUTER Channel on port: %i" % self.shell_port)
+    231 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in _bind_socket(self=<ipykernel.kernelapp.IPKernelApp object>, s=<zmq.sugar.socket.Socket object>, port=37346)
+    169                 port = s.bind_to_random_port(iface)
+    170             else:
+--> 171                 s.bind("tcp://%s:%i" % (self.ip, port))
+        s.bind = <built-in method bind of Socket object at 0x7fc438d84c80>
+        self.ip = u'127.0.0.1'
+        port = 37346
+    172         elif self.transport == 'ipc':
+    173             if port <= 0:
+
+zmq/backend/cython/socket.pyx in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:4824)()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/zmq/backend/cython/checkrc.pxd in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7055)()
+     22             raise ContextTerminated(errno)
+     23         else:
+     24             from zmq.error import ZMQError
+---> 25             raise ZMQError(errno)
+        global ZMQError = <class 'zmq.error.ZMQError'>
+        global errno = undefined
+     26     return 0
+
+ZMQError: Address already in use
+[I 15:50:50.388 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+---------------------------------------------------------------------------
+ZMQError                                  Traceback (most recent call last)
+<string> in <module>()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in main()
+    410     """Run an IPKernel as an application"""
+    411     app = IPKernelApp.instance()
+--> 412     app.initialize()
+        app.initialize = <bound method IPKernelApp.initialize of <ipykernel.kernelapp.IPKernelApp object at 0x7f375cdf6050>>
+    413     app.start()
+    414 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+
+/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.pyc in catch_config_error(method=<function initialize>, app=<ipykernel.kernelapp.IPKernelApp object>, *args=(None,), **kwargs={})
+     73     """
+     74     try:
+---> 75         return method(app, *args, **kwargs)
+        method = <function initialize at 0x7f375cd68b18>
+        app = <ipykernel.kernelapp.IPKernelApp object at 0x7f375cdf6050>
+        args = (None,)
+        kwargs = {}
+     76     except (TraitError, ArgumentError) as e:
+     77         app.print_help()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+    371         self.init_connection_file()
+    372         self.init_poller()
+--> 373         self.init_sockets()
+        self.init_sockets = <bound method IPKernelApp.init_sockets of <ipykernel.kernelapp.IPKernelApp object at 0x7f375cdf6050>>
+    374         self.init_heartbeat()
+    375         # writing/displaying connection info must be *after* init_sockets/heartbeat
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in init_sockets(self=<ipykernel.kernelapp.IPKernelApp object>)
+    227         self.shell_socket = context.socket(zmq.ROUTER)
+    228         self.shell_socket.linger = 1000
+--> 229         self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+        self.shell_port = 37346
+        self._bind_socket = <bound method IPKernelApp._bind_socket of <ipykernel.kernelapp.IPKernelApp object at 0x7f375cdf6050>>
+        self.shell_socket = <zmq.sugar.socket.Socket object at 0x7f375ce15c80>
+    230         self.log.debug("shell ROUTER Channel on port: %i" % self.shell_port)
+    231 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in _bind_socket(self=<ipykernel.kernelapp.IPKernelApp object>, s=<zmq.sugar.socket.Socket object>, port=37346)
+    169                 port = s.bind_to_random_port(iface)
+    170             else:
+--> 171                 s.bind("tcp://%s:%i" % (self.ip, port))
+        s.bind = <built-in method bind of Socket object at 0x7f375ce15c80>
+        self.ip = u'127.0.0.1'
+        port = 37346
+    172         elif self.transport == 'ipc':
+    173             if port <= 0:
+
+zmq/backend/cython/socket.pyx in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:4824)()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/zmq/backend/cython/checkrc.pxd in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7055)()
+     22             raise ContextTerminated(errno)
+     23         else:
+     24             from zmq.error import ZMQError
+---> 25             raise ZMQError(errno)
+        global ZMQError = <class 'zmq.error.ZMQError'>
+        global errno = undefined
+     26     return 0
+
+ZMQError: Address already in use
+[I 15:50:53.398 NotebookApp] KernelRestarter: restarting kernel (2/5)
+WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+---------------------------------------------------------------------------
+ZMQError                                  Traceback (most recent call last)
+<string> in <module>()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in main()
+    410     """Run an IPKernel as an application"""
+    411     app = IPKernelApp.instance()
+--> 412     app.initialize()
+        app.initialize = <bound method IPKernelApp.initialize of <ipykernel.kernelapp.IPKernelApp object at 0x7fa6b74a4050>>
+    413     app.start()
+    414 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+
+/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.pyc in catch_config_error(method=<function initialize>, app=<ipykernel.kernelapp.IPKernelApp object>, *args=(None,), **kwargs={})
+     73     """
+     74     try:
+---> 75         return method(app, *args, **kwargs)
+        method = <function initialize at 0x7fa6b7416b18>
+        app = <ipykernel.kernelapp.IPKernelApp object at 0x7fa6b74a4050>
+        args = (None,)
+        kwargs = {}
+     76     except (TraitError, ArgumentError) as e:
+     77         app.print_help()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+    371         self.init_connection_file()
+    372         self.init_poller()
+--> 373         self.init_sockets()
+        self.init_sockets = <bound method IPKernelApp.init_sockets of <ipykernel.kernelapp.IPKernelApp object at 0x7fa6b74a4050>>
+    374         self.init_heartbeat()
+    375         # writing/displaying connection info must be *after* init_sockets/heartbeat
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in init_sockets(self=<ipykernel.kernelapp.IPKernelApp object>)
+    227         self.shell_socket = context.socket(zmq.ROUTER)
+    228         self.shell_socket.linger = 1000
+--> 229         self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+        self.shell_port = 37346
+        self._bind_socket = <bound method IPKernelApp._bind_socket of <ipykernel.kernelapp.IPKernelApp object at 0x7fa6b74a4050>>
+        self.shell_socket = <zmq.sugar.socket.Socket object at 0x7fa6b74c3c80>
+    230         self.log.debug("shell ROUTER Channel on port: %i" % self.shell_port)
+    231 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in _bind_socket(self=<ipykernel.kernelapp.IPKernelApp object>, s=<zmq.sugar.socket.Socket object>, port=37346)
+    169                 port = s.bind_to_random_port(iface)
+    170             else:
+--> 171                 s.bind("tcp://%s:%i" % (self.ip, port))
+        s.bind = <built-in method bind of Socket object at 0x7fa6b74c3c80>
+        self.ip = u'127.0.0.1'
+        port = 37346
+    172         elif self.transport == 'ipc':
+    173             if port <= 0:
+
+zmq/backend/cython/socket.pyx in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:4824)()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/zmq/backend/cython/checkrc.pxd in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7055)()
+     22             raise ContextTerminated(errno)
+     23         else:
+     24             from zmq.error import ZMQError
+---> 25             raise ZMQError(errno)
+        global ZMQError = <class 'zmq.error.ZMQError'>
+        global errno = undefined
+     26     return 0
+
+ZMQError: Address already in use
+[I 15:50:56.406 NotebookApp] KernelRestarter: restarting kernel (3/5)
+WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+---------------------------------------------------------------------------
+ZMQError                                  Traceback (most recent call last)
+<string> in <module>()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in main()
+    410     """Run an IPKernel as an application"""
+    411     app = IPKernelApp.instance()
+--> 412     app.initialize()
+        app.initialize = <bound method IPKernelApp.initialize of <ipykernel.kernelapp.IPKernelApp object at 0x7fcee6fd0050>>
+    413     app.start()
+    414 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+
+/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.pyc in catch_config_error(method=<function initialize>, app=<ipykernel.kernelapp.IPKernelApp object>, *args=(None,), **kwargs={})
+     73     """
+     74     try:
+---> 75         return method(app, *args, **kwargs)
+        method = <function initialize at 0x7fcee6f42b18>
+        app = <ipykernel.kernelapp.IPKernelApp object at 0x7fcee6fd0050>
+        args = (None,)
+        kwargs = {}
+     76     except (TraitError, ArgumentError) as e:
+     77         app.print_help()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in initialize(self=<ipykernel.kernelapp.IPKernelApp object>, argv=None)
+    371         self.init_connection_file()
+    372         self.init_poller()
+--> 373         self.init_sockets()
+        self.init_sockets = <bound method IPKernelApp.init_sockets of <ipykernel.kernelapp.IPKernelApp object at 0x7fcee6fd0050>>
+    374         self.init_heartbeat()
+    375         # writing/displaying connection info must be *after* init_sockets/heartbeat
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in init_sockets(self=<ipykernel.kernelapp.IPKernelApp object>)
+    227         self.shell_socket = context.socket(zmq.ROUTER)
+    228         self.shell_socket.linger = 1000
+--> 229         self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+        self.shell_port = 37346
+        self._bind_socket = <bound method IPKernelApp._bind_socket of <ipykernel.kernelapp.IPKernelApp object at 0x7fcee6fd0050>>
+        self.shell_socket = <zmq.sugar.socket.Socket object at 0x7fcee6fefc80>
+    230         self.log.debug("shell ROUTER Channel on port: %i" % self.shell_port)
+    231 
+
+/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.pyc in _bind_socket(self=<ipykernel.kernelapp.IPKernelApp object>, s=<zmq.sugar.socket.Socket object>, port=37346)
+    169                 port = s.bind_to_random_port(iface)
+    170             else:
+--> 171                 s.bind("tcp://%s:%i" % (self.ip, port))
+        s.bind = <built-in method bind of Socket object at 0x7fcee6fefc80>
+        self.ip = u'127.0.0.1'
+        port = 37346
+    172         elif self.transport == 'ipc':
+    173             if port <= 0:
+
+zmq/backend/cython/socket.pyx in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:4824)()
+
+/home/carlson/anaconda/lib/python2.7/site-packages/zmq/backend/cython/checkrc.pxd in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7055)()
+     22             raise ContextTerminated(errno)
+     23         else:
+     24             from zmq.error import ZMQError
+---> 25             raise ZMQError(errno)
+        global ZMQError = <class 'zmq.error.ZMQError'>
+        global errno = undefined
+     26     return 0
+
+ZMQError: Address already in use
+[I 15:50:59.415 NotebookApp] KernelRestarter: restarting kernel (4/5)
+WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:51:19.875 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:52:10.470 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:52:25.305 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:52:46.834 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:53:20.924 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:53:50.491 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:54:01.115 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:54:18.772 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:54:23.244 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:54:34.282 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:55:20.909 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:56:05.168 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:56:27.824 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:56:55.863 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:56:59.870 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:57:13.337 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:57:20.920 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:59:08.073 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 15:59:21.001 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:01:21.653 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:02:37.771 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:02:56.636 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:03:06.048 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:03:51.820 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:04:34.229 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:04:37.002 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:04:42.440 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:04:57.066 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:04:58.949 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:05:11.468 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:05:20.887 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:05:24.424 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:05:34.665 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:05:42.538 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:05:47.495 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:06:29.446 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:06:33.410 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:06:53.345 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:04.984 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:20.907 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:22.934 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:30.715 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:35.791 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:44.745 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:07:55.970 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:08:51.497 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:09:07.292 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:09:20.891 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:09:24.586 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:09:31.847 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:09:53.735 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:10:40.848 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:10:44.539 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:10:48.261 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:11:02.337 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:11:20.894 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:11:45.902 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:11:59.354 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:12:05.818 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:12:52.033 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:12:55.052 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:12:57.009 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:12:58.438 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:13:05.464 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:13:11.080 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:13:18.977 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:13:20.896 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:13:25.282 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:13:29.057 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:14:08.327 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:14:11.847 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:15:20.926 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:15:25.577 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:15:57.717 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:16:08.171 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:16:17.290 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:16:24.623 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:16:30.663 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:17:20.889 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:18:07.995 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:18:21.375 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:18:39.442 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:18:45.444 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:19:20.936 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:20:41.060 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:21:20.888 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:21:53.680 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:22:03.915 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:22:13.204 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:22:25.010 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:22:47.855 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:23:20.941 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:23:39.170 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:24:15.116 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:24:33.280 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:24:38.799 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:24:51.350 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:25:20.908 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:25:25.225 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:25:49.336 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:27:20.916 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:28:13.859 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:28:17.961 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:29:20.898 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:29:40.514 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:30:01.687 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:30:29.554 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:30:43.949 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:30:58.929 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:31:02.120 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:31:20.797 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:31:23.300 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:32:04.899 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:32:16.897 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:32:24.220 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:32:56.651 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:33:02.484 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:33:18.729 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:33:20.885 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:33:30.119 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:34:23.675 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:34:55.565 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:35:20.890 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:35:29.165 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:35:54.997 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:36:02.494 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:36:06.481 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:36:12.737 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:36:31.283 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:36:35.318 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:36:40.036 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:37:20.907 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:38:20.745 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:38:28.441 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:38:30.119 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:39:21.211 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:39:21.739 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:39:34.720 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:39:40.483 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:40:23.356 NotebookApp] Kernel interrupted: bd468d9d-a43b-40fc-9aaa-51cd827e7d32
+[I 16:40:47.548 NotebookApp] Saving file at /Preprocessing.ipynb
+[I 16:40:53.388 NotebookApp] Saving file at /Preprocessing.ipynb
