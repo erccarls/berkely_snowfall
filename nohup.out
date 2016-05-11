@@ -1923,3 +1923,474 @@ WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
 [I 02:13:46.029 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
 [I 02:15:46.654 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
 [I 02:15:49.180 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 02:53:43.590 NotebookApp] WebSocket ping timeout after 119986 ms.
+[I 13:57:08.101 NotebookApp] 302 GET / (169.233.199.246) 0.73ms
+[I 13:57:08.115 NotebookApp] 302 GET /tree (169.233.199.246) 1.09ms
+[I 13:57:10.947 NotebookApp] 302 POST /login?next=%2Ftree (169.233.199.246) 1.67ms
+[W 13:57:17.360 NotebookApp] Notebook notebooks/Kalman Filter.ipynb is not trusted
+[I 13:59:23.913 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 13:59:23.914 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:00:29.461 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:00:29.462 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:01:20.416 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:01:20.417 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:03:20.378 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:03:20.379 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:05:20.393 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:05:20.394 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:06:30.701 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:06:30.702 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:07:21.733 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:07:21.733 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 14:07:43.447 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 14:07:43.448 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[W 14:09:50.022 NotebookApp] WebSocket ping timeout after 119954 ms.
+[I 15:50:55.885 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 15:50:55.886 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[W 15:54:11.666 NotebookApp] WebSocket ping timeout after 119906 ms.
+[I 16:38:28.114 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 16:38:28.115 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 17:17:15.024 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[W 17:35:43.752 NotebookApp] WebSocket ping timeout after 119846 ms.
+[W 17:35:43.868 NotebookApp] WebSocket ping timeout after 119962 ms.
+[W 17:47:15.207 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 17:47:15.436 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 22:47:13.774 NotebookApp] Creating new notebook in /notebooks
+[I 22:47:15.327 NotebookApp] Kernel started: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[W 22:47:41.139 NotebookApp] Notebook notebooks/Kalman Filter.ipynb is not trusted
+[I 22:48:28.348 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:48:28.349 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:48:57.713 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:48:57.714 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:49:06.467 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:49:06.468 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:49:15.628 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 22:56:36.194 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:56:36.195 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:57:44.315 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:57:44.316 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:57:46.036 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:57:46.037 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:57:55.717 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:57:55.718 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:58:24.160 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:58:24.161 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:58:38.986 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:58:38.987 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:58:45.593 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:58:45.593 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:59:00.592 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:59:00.593 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:59:32.950 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:59:32.951 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:59:45.730 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:59:45.731 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:59:49.596 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:59:49.597 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:00:01.016 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:00:01.017 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:00:05.008 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:00:05.009 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:00:11.334 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:00:11.335 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:00:24.375 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:00:24.376 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:00:43.357 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:00:43.357 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:00:55.007 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:00:55.008 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:01:13.190 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:01:13.191 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:01:25.728 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:01:25.729 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:01:37.372 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:01:37.373 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:01:53.526 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:01:53.527 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:02:06.688 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:02:06.689 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:02:12.930 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:02:12.931 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:02:16.625 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:02:16.626 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:02:37.755 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:02:37.756 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:02:44.496 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:02:44.498 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:03:03.043 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:03:03.044 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:03:15.321 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:03:15.322 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:03:29.893 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:03:29.894 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:03:36.886 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:03:36.887 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:03:44.014 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:03:44.015 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:03:49.434 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:03:49.436 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:04:24.074 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:04:24.075 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:05:29.876 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:05:29.877 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:05:42.036 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:05:42.037 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:05:44.364 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:05:44.365 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:06:00.245 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:06:00.246 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:06:05.047 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:06:05.048 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:06:18.683 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:06:18.684 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:06:22.613 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:06:22.614 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:07:44.031 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:07:44.032 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:09:01.832 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:09:01.833 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:09:15.310 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:09:15.312 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:09:44.039 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:09:44.041 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:10:00.270 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:10:00.271 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:10:04.872 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:10:04.873 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:10:12.681 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:10:12.682 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:10:18.696 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:10:18.698 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:11:44.040 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:11:44.041 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:12:38.161 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:12:38.162 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:12:42.935 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:12:42.936 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:13:05.216 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:13:05.217 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:13:16.770 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:13:16.770 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:13:24.647 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:13:24.648 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:13:44.077 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:13:44.078 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:14:34.939 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:14:34.940 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:15:44.030 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:15:44.031 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:16:17.963 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:16:17.964 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:16:55.089 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:16:55.090 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:17:42.877 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:17:42.878 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:17:44.829 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:17:44.830 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:18:10.227 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:18:10.228 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:18:38.199 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:18:38.201 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:18:44.243 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:18:44.244 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:19:44.096 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:19:44.097 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:21:08.402 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:21:08.403 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:21:44.113 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:21:44.114 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:21:57.423 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:21:57.423 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:23:10.216 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:23:10.217 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:23:44.211 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:23:44.212 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:24:36.192 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:24:36.194 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:24:43.566 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:24:43.567 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:24:57.371 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:24:57.372 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:25:14.566 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:25:14.566 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:25:44.224 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:25:44.225 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:25:57.501 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:25:57.502 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:26:11.788 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:26:11.788 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:27:16.751 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:27:16.752 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:27:44.075 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:27:44.075 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:29:44.124 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:29:44.125 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:33:21.193 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:34:30.406 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:34:37.805 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:34:43.952 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:34:59.127 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:35:10.054 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:37:14.609 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:37:34.406 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:38:18.025 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:38:37.769 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:38:51.299 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:39:21.299 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:42:46.147 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:44:38.630 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[W 23:45:02.029 NotebookApp] Notebook notebooks/Kalman Filter.ipynb is not trusted
+[I 23:46:06.078 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:46:33.066 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:46:38.792 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:46:44.180 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:47:09.654 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:47:25.094 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:47:31.762 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:47:36.640 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:47:59.753 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:48:08.595 NotebookApp] Kernel restarted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 23:48:43.271 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:50:37.232 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:51:25.071 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:51:35.688 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:51:45.396 NotebookApp] Kernel restarted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 23:52:22.631 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:53:25.074 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:55:25.071 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:56:12.398 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:56:34.045 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:56:39.225 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:56:55.622 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:57:25.073 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:57:26.003 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:57:31.745 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 23:59:25.076 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:01:54.617 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:02:10.000 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:02:28.637 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:02:42.440 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:03:25.077 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:03:41.028 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:03:54.643 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:04:05.866 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:04:07.707 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:04:20.380 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:04:24.464 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:04:49.219 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:00.797 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:05.946 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:25.076 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:25.464 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:29.874 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:48.883 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:05:59.444 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:07:02.412 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:07:25.077 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:07:36.556 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:07:57.260 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:08:13.098 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:08:18.424 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:08:27.390 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:08:45.284 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:08:45.809 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:08:55.842 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:09:12.581 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:09:25.075 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:09:36.554 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:10:20.219 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:11:13.516 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:11:25.086 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:11:36.454 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:11:45.320 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:12:06.873 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:12:11.512 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:12:25.086 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:12:54.236 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:13:25.076 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:13:39.001 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:14:02.031 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:14:08.648 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:14:45.566 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:14:59.425 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:15:11.299 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:15:18.476 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:15:43.920 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:16:02.125 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:16:37.894 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:17:05.378 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:17:25.073 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:17:56.460 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:18:06.442 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:18:10.132 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:18:37.815 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:18:53.582 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:19:16.632 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:19:23.571 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:20:17.151 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:20:27.902 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:20:36.923 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:21:03.463 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:21:15.760 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:21:25.068 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:21:29.352 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:21:41.188 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:22:08.013 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:22:23.746 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:22:56.762 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:23:04.766 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:23:57.812 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:24:51.470 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:25:17.040 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:25:50.942 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:26:10.488 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:26:41.669 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:26:58.631 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:27:14.395 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:27:25.077 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:27:29.938 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:27:37.368 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:28:47.958 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:31:25.087 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:33:19.945 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:33:25.078 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:33:25.808 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:33:47.990 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:34:40.622 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:36:42.866 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:38:42.858 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:39:57.342 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:40:42.862 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:41:32.563 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:41:54.637 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:42:14.614 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:42:15.662 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:42:40.242 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:43:22.071 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:44:42.839 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:45:17.532 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:45:40.252 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:46:33.684 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:46:35.372 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:46:42.846 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:47:06.113 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:47:07.017 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:47:09.899 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:47:29.986 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:47:48.226 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:48:07.435 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:48:23.086 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:48:29.525 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:48:41.490 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:48:45.874 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:48:54.054 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:49:08.088 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:49:08.878 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:49:19.583 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:49:22.269 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:49:41.802 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:49:47.864 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:50:40.904 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:50:48.233 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:51:04.858 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:51:13.395 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:51:45.623 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:52:10.268 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:52:37.539 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:54:42.848 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:57:36.239 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:57:42.416 NotebookApp] Kernel restarted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[W 00:57:42.422 NotebookApp] zmq message arrived on closed channel
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 00:58:42.849 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:58:49.759 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 00:59:19.778 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:00:42.848 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:01:50.522 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:01:59.017 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:02:43.632 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:02:51.154 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 01:02:51.155 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 01:03:05.703 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 01:03:05.704 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 01:03:46.490 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:04:42.871 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:05:05.746 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 01:05:05.748 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 01:06:42.856 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:08:42.861 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:10:42.846 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:12:42.853 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:12:54.417 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:13:01.405 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:13:10.607 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:13:20.793 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:14:42.850 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:17:45.234 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:17:57.018 NotebookApp] Kernel restarted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 01:18:42.851 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:19:04.981 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:19:20.072 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:20:42.856 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:22:24.462 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:22:38.334 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:22:50.087 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:22:56.318 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:22:59.491 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:23:57.156 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:24:03.648 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:24:42.856 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:26:27.274 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:28:42.849 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:29:04.514 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:29:11.951 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:29:51.234 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:30:42.845 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:32:42.869 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:34:42.860 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:36:40.899 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:36:42.867 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:37:09.157 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:38:42.862 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:40:42.874 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:42:42.853 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:44:42.856 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:48:08.266 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:48:17.464 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:48:26.624 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:48:42.853 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:49:58.103 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:50:42.855 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:52:43.652 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:54:42.853 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:56:20.112 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:56:41.052 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:56:48.674 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 01:58:42.856 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:00:42.884 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:01:08.246 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:01:39.588 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:02:42.891 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:04:42.902 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:06:42.978 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:08:42.980 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:08:56.344 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:10:42.971 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:11:59.480 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:12:42.909 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:14:43.027 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:16:42.976 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:18:42.956 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[W 02:20:11.135 NotebookApp] Notebook notebooks/Kalman Filter.ipynb is not trusted
+[I 02:20:43.050 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:22:43.066 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[I 02:24:27.536 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
