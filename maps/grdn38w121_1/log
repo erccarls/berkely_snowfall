@@ -1,0 +1,5 @@
+201307191523   0     3     0oimoen DEM12138 = grid12138
+201307191523   0     0     0oimoen  projectdefine grid dem12138
+201307191523   0     1     0oimoen  copy dem12138 t:/ned/holding/ned_1/dem12138
+201307241209   0     0     0oimoen  projectdefine grid dem12138
+201307241209   0     1     0oimoen copy dem12138 r:\iadd1\ned\1arcsec\grid\n38w121\grdn38w121_1

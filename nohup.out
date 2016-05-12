@@ -2397,3 +2397,154 @@ WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
 [W 03:11:23.589 NotebookApp] WebSocket ping timeout after 119986 ms.
 [W 03:11:28.034 NotebookApp] WebSocket ping timeout after 119985 ms.
 [W 03:11:42.153 NotebookApp] WebSocket ping timeout after 119986 ms.
+[I 18:43:12.546 NotebookApp] Creating new notebook in /notebooks
+[I 18:43:13.871 NotebookApp] Kernel started: e2477ece-63c4-44e2-aace-a0420a70d383
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:43:20.335 NotebookApp] Creating new notebook in /notebooks
+[I 18:43:21.452 NotebookApp] Kernel started: 8bfc0bfe-8221-41ea-b3c4-3e7ca1837f4e
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:45:16.042 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:47:09.792 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:48:06.784 NotebookApp] Kernel restarted: e2477ece-63c4-44e2-aace-a0420a70d383
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:49:13.909 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:51:14.388 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:53:13.885 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:53:29.321 NotebookApp] Kernel interrupted: e2477ece-63c4-44e2-aace-a0420a70d383
+[I 18:55:13.888 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:55:31.351 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:57:06.879 NotebookApp] Kernel interrupted: e2477ece-63c4-44e2-aace-a0420a70d383
+[I 18:57:13.888 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:57:53.325 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:58:13.875 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 18:59:13.951 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:05:14.049 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:09:13.936 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:11:13.966 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:11:41.363 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:13:13.947 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:19:14.046 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:21:13.924 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:21:54.502 NotebookApp] Kernel restarted: e2477ece-63c4-44e2-aace-a0420a70d383
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 19:22:43.682 NotebookApp] Kernel restarted: e2477ece-63c4-44e2-aace-a0420a70d383
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 19:23:13.912 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:25:14.202 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:27:14.188 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:28:17.185 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:28:43.753 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:28:58.642 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:29:14.192 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:30:16.083 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:31:14.779 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:31:17.466 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:33:14.780 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:35:14.835 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:37:14.404 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:39:14.413 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:40:20.263 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:41:14.710 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:43:14.844 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:45:14.983 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[W 19:46:36.105 NotebookApp] 404 GET /static/components/backbone/backbone-min.map (24.6.90.144) 195.85ms referer=None
+[I 19:47:14.712 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:49:14.591 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:51:14.408 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:53:14.588 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:55:14.776 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 19:57:14.761 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:51:14.566 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:53:15.720 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:55:11.247 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:57:15.491 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:58:30.918 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:59:15.472 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:59:28.107 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:59:36.555 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:59:38.864 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 22:59:50.825 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:01:15.937 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:01:42.151 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:02:24.106 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:03:15.921 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:05:13.961 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:06:40.434 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:07:15.742 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:09:15.508 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:10:34.423 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:11:02.336 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:11:14.152 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:13:15.778 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:29:15.879 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:30:17.998 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:33:15.655 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:35:15.387 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:37:15.390 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:39:15.365 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:41:15.382 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:43:13.971 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 23:45:15.344 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 10:55:15.971 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 10:59:14.911 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:03:14.915 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:05:14.940 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:07:14.756 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:09:15.621 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:11:15.653 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:13:15.652 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:14:26.639 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:15:15.623 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:16:47.033 NotebookApp] Kernel restarted: e2477ece-63c4-44e2-aace-a0420a70d383
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:17:11.675 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:19:15.551 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:20:52.657 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:21:15.758 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:23:15.619 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:23:27.919 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:23:55.938 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:24:21.308 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:24:33.873 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:24:57.420 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:25:15.624 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:25:48.534 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:27:16.390 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:29:16.610 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:31:15.621 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:32:14.543 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:33:15.611 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:33:18.757 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:34:27.536 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:35:16.751 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:35:48.569 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:36:48.614 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:37:11.706 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:37:15.685 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:37:19.214 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:38:12.073 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:38:19.169 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:38:38.521 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:39:19.316 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:39:19.686 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:40:23.879 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:40:41.152 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:40:46.501 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:41:05.621 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:41:16.795 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:41:35.709 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:43:13.421 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:44:03.210 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:45:16.818 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:46:48.880 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:47:07.658 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:47:16.781 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:49:16.781 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:49:40.962 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:50:19.610 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
