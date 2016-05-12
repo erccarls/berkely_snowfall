@@ -2394,3 +2394,6 @@ WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
 [I 02:20:43.050 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
 [I 02:22:43.066 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
 [I 02:24:27.536 NotebookApp] Saving file at /notebooks/Combined Kalman Filter.ipynb
+[W 03:11:23.589 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 03:11:28.034 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 03:11:42.153 NotebookApp] WebSocket ping timeout after 119986 ms.
