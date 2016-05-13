@@ -1,7 +1,6 @@
 import numpy as np 
 from numpy.linalg import pinv
-import time
-
+from numpy.linalg import det
 
 class Kalman():
     '''Implements a 1D (observation dimension) Bayesian Kalman filter following the probabilistic approach of Murphy page ~641.  
@@ -96,7 +95,6 @@ class Kalman():
         else:
             self.mu = np.dot(self.A, self.mu) + np.dot(self.B, self.u)
 
-    
         
     def update(self, Y):
         '''
@@ -117,16 +115,16 @@ class Kalman():
         # If the residual is an NaN (observation invalid), set it to zero so there is no update
         # I.e. r=0 -> K=0 for that sensor 
         # TODO: Revisit this since it will impact log-likelihood
-        # print Y
-        # print self.C
-        # print self.mu
-
-        # print self.y
-        # print r
-        r[np.isnan(r)] = 0 
+        r[np.isnan(r)] = 0
+        nan_idx = np.where(np.isnan(r))[0]
 
         S = np.dot(np.dot(self.C, self.sigma), self.C.T) + self.R #         
-        K = np.dot(np.dot(self.sigma, self.C.T), pinv(S)) # Kalman Gain 
+        
+        try:
+            S_inverse = pinv(S)
+        except: 
+            return 'nan'
+        K = np.dot(np.dot(self.sigma, self.C.T), S_inverse) # Kalman Gain 
         
         # Correct the state covariance and mean 
         self.mu = self.mu + np.dot(K, r)
@@ -137,3 +135,8 @@ class Kalman():
         self.K = K 
         self.S = S 
 
+        # Gaussian log-likeliehood 
+        loglikelihood = -len(r)/2.*np.log(2*np.pi)-np.log(det(S))/2.-np.dot(np.dot(r, S_inverse), r.T)/2.
+        #return np.sum(r**2)
+
+        return loglikelihood

@@ -2548,3 +2548,1439 @@ WARNING:root:kernel bd468d9d-a43b-40fc-9aaa-51cd827e7d32 restarted
 [I 11:49:16.781 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
 [I 11:49:40.962 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
 [I 11:50:19.610 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 11:59:10.878 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 11:59:25.661 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 11:59:28.435 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 11:59:47.736 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 11:59:53.733 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:00:09.469 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:00:43.303 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:01:06.276 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:01:13.705 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:01:17.786 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:01:46.088 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:01:51.756 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:02:41.325 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:03:04.274 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:04:23.490 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:04:40.195 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:05:05.935 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:05:10.736 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:05:16.820 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:05:29.177 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:05:35.576 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:05:42.389 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:06:03.607 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:06:08.277 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:06:19.986 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:06:53.448 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:06:55.872 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:07:10.751 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:07:17.071 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:07:25.440 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:08:24.627 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:08:37.874 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:08:52.925 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:09:07.008 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:09:10.751 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:09:34.820 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:09:44.706 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:09:59.845 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:10:13.370 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:10:18.909 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:11:10.756 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:22:14.420 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:22:41.401 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:23:10.761 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:23:21.542 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:23:42.575 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:25:08.030 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:25:23.863 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:25:36.960 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:25:40.808 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:26:11.317 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:26:22.738 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:26:49.152 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:26:53.740 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:26:56.658 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:27:03.458 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:27:10.742 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:27:27.522 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:27:40.380 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:27:43.480 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:28:10.064 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:28:37.692 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:28:54.441 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:29:04.013 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:29:07.207 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:29:10.756 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:29:46.480 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:30:06.488 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:30:13.987 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:30:31.303 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:30:40.662 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:31:10.740 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:31:29.059 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:31:34.926 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:32:14.912 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:33:10.758 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:34:08.411 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:34:12.664 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:34:24.199 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:34:31.869 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:34:55.158 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:35:08.229 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:35:27.887 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:36:17.461 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:36:44.764 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:37:10.757 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:37:36.494 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:37:43.502 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:03.602 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:16.650 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:26.187 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:29.755 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:39.394 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:44.580 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:50.081 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:38:54.935 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:39:02.252 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:39:30.142 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:39:40.323 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:39:42.181 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:39:50.509 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:41:09.803 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:41:22.442 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:41:39.801 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:41:53.973 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:41:57.863 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:42:01.458 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:42:07.187 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:42:21.948 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:42:29.582 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:43:10.745 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:43:24.788 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:43:27.747 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:43:33.901 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:43:40.975 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:43:57.056 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:44:16.446 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:45:10.764 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:45:28.672 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:45:31.632 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:45:38.023 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 12:45:54.439 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:11:49.296 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:12:54.037 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:12:56.723 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:13:53.360 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:18:31.792 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:19:10.397 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:19:38.838 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:21:10.765 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:23:10.750 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:25:10.788 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:26:32.260 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:26:57.091 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:27:10.757 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:28:05.511 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:29:10.770 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:29:33.385 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:29:41.498 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:29:43.922 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:30:03.743 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:31:10.768 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:33:10.760 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:35:10.773 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:39:10.782 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:40:16.155 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:40:53.972 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:41:10.763 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:41:29.370 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:41:44.703 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:42:00.831 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:43:11.526 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:44:41.821 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:45:17.616 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 13:47:10.771 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 13:55:10.911 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:05:58.957 NotebookApp] 302 GET / (169.233.213.121) 0.78ms
+[I 14:13:28.251 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:15:28.193 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:19:28.178 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:19:37.006 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 14:20:15.148 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 14:20:55.772 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 14:21:28.216 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:22:22.205 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 14:23:29.115 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:25:29.125 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:39:28.258 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:41:28.207 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:43:28.280 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:49:28.664 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:49:56.698 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:50:43.508 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:51:28.508 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:53:01.532 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:54:56.291 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:55:28.831 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:57:28.814 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:58:38.690 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 14:58:55.224 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:58:57.559 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 14:59:28.448 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 14:59:34.688 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 15:01:28.483 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:03:28.318 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:03:48.318 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 15:05:28.576 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[W 15:08:28.061 NotebookApp] WebSocket ping timeout after 119978 ms.
+[E 15:08:28.119 NotebookApp] Uncaught exception GET /api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/channels?session_id=6FA0DE1CB85040B083C4B607DEBEE780 (169.233.213.121)
+    HTTPServerRequest(protocol='https', host='planck.ucsc.edu:10004', method='GET', uri='/api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/channels?session_id=6FA0DE1CB85040B083C4B607DEBEE780', version='HTTP/1.1', remote_ip='169.233.213.121', headers={'Origin': 'https://planck.ucsc.edu:10004', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch', 'Sec-Websocket-Version': '13', 'Host': 'planck.ucsc.edu:10004', 'Sec-Websocket-Key': 'U1Br6IWU2EDvUZH4xp6lng==', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36', 'Connection': 'Upgrade', 'Cookie': '_ga=GA1.2.307965431.1438571430; username-planck-ucsc-edu-10004="2|1:0|10:1462913830|30:username-planck-ucsc-edu-10004|48:YTNjNDJhMjAtMGE1YS00ZDAwLWJiY2YtOTMxMzcyZGQwOTMz|de313c4a0611c3a0678a42123bf03bb4d4050668211f174316e07b2559407e42"', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 349, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 260, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 15:09:29.144 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:09:44.195 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:10:25.303 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:10:27.187 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:11:46.922 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:14:04.379 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:14:23.804 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:16:25.468 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 15:16:38.825 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:16:52.327 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:17:43.211 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 15:18:38.935 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:19:57.219 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 15:20:39.277 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[W 15:22:38.605 NotebookApp] WebSocket ping timeout after 119997 ms.
+[E 15:22:39.015 NotebookApp] Uncaught exception GET /api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/channels?session_id=0CAC169600A3414D850DF2ACBCD60A0C (169.233.213.121)
+    HTTPServerRequest(protocol='https', host='planck.ucsc.edu:10004', method='GET', uri='/api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/channels?session_id=0CAC169600A3414D850DF2ACBCD60A0C', version='HTTP/1.1', remote_ip='169.233.213.121', headers={'Origin': 'https://planck.ucsc.edu:10004', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch', 'Sec-Websocket-Version': '13', 'Host': 'planck.ucsc.edu:10004', 'Sec-Websocket-Key': '0E8fWHG4obkt4e6HE5iyQg==', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36', 'Connection': 'Upgrade', 'Cookie': '_ga=GA1.2.307965431.1438571430; username-planck-ucsc-edu-10004="2|1:0|10:1462913830|30:username-planck-ucsc-edu-10004|48:YTNjNDJhMjAtMGE1YS00ZDAwLWJiY2YtOTMxMzcyZGQwOTMz|de313c4a0611c3a0678a42123bf03bb4d4050668211f174316e07b2559407e42"', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 349, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 260, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 15:23:28.084 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:25:35.705 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:27:35.664 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:31:35.613 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:35:35.700 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:36:18.688 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:45:35.693 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:47:35.665 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 15:49:35.617 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[W 15:53:35.708 NotebookApp] WebSocket ping timeout after 119996 ms.
+[E 15:53:35.826 NotebookApp] Uncaught exception GET /api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/channels?session_id=731DAAB3E4AE4FE2876128DBB98680A4 (169.233.213.121)
+    HTTPServerRequest(protocol='https', host='planck.ucsc.edu:10004', method='GET', uri='/api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/channels?session_id=731DAAB3E4AE4FE2876128DBB98680A4', version='HTTP/1.1', remote_ip='169.233.213.121', headers={'Origin': 'https://planck.ucsc.edu:10004', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch', 'Sec-Websocket-Version': '13', 'Host': 'planck.ucsc.edu:10004', 'Sec-Websocket-Key': 'pNoGDhnyMuGnvLTRtoEexA==', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36', 'Connection': 'Upgrade', 'Cookie': '_ga=GA1.2.307965431.1438571430; username-planck-ucsc-edu-10004="2|1:0|10:1462913830|30:username-planck-ucsc-edu-10004|48:YTNjNDJhMjAtMGE1YS00ZDAwLWJiY2YtOTMxMzcyZGQwOTMz|de313c4a0611c3a0678a42123bf03bb4d4050668211f174316e07b2559407e42"', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 349, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 260, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 18:09:43.477 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 18:12:25.129 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 18:12:38.978 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 18:13:04.746 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 18:14:17.544 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 18:14:39.208 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 18:14:41.440 NotebookApp] Kernel interrupted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[I 18:15:30.120 NotebookApp] Kernel restarted: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 18:15:33.120 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 18:15:36.129 NotebookApp] KernelRestarter: restarting kernel (2/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 18:15:39.139 NotebookApp] KernelRestarter: restarting kernel (3/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 18:15:42.149 NotebookApp] KernelRestarter: restarting kernel (4/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[W 18:15:45.158 NotebookApp] KernelRestarter: restart failed
+[W 18:15:45.158 NotebookApp] Kernel 4e5f696e-b3e1-4454-b54f-ce70564f86f0 died, removing from map.
+[W 18:15:45.159 NotebookApp] Restarting kernel failed: 4e5f696e-b3e1-4454-b54f-ce70564f86f0
+[E 18:15:45.159 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 88, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/gen.py", line 1008, in run
+        value = future.result()
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/concurrent.py", line 232, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 3, in raise_exc_info
+    RuntimeError: Restart failed
+[E 18:15:45.161 NotebookApp] {
+      "Origin": "https://planck.ucsc.edu:10004", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate", 
+      "Host": "planck.ucsc.edu:10004", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb", 
+      "Cookie": "wp-settings-1=libraryContent%3Dbrowse%26editor%3Dhtml; wp-settings-time-1=1440101965; PS_DEVICEFEATURES=width:2560 height:1600 pixelratio:1 touch:0 geolocation:1 websockets:1 webworkers:1 datepicker:1 dtpicker:1 timepicker:1 dnd:1 sessionstorage:1 localstorage:1 history:1 canvas:1 svg:1 postmessage:1 hc:0; username-planck-ucsc-edu-10077=\"2|1:0|10:1461956296|30:username-planck-ucsc-edu-10077|48:M2ZkNDA2OWUtNGY1OS00NDk1LTk2ZWEtMjZjYzdiZjNmMGQy|aafc57998a3ccbd63abe0cf1c4e133941d5148ea0fb6c4fddeb5ee02af67f118\"; username-planck-ucsc-edu-10000=\"2|1:0|10:1462043611|30:username-planck-ucsc-edu-10000|48:YzA1NWM1NjUtNTM5NC00NmQ5LTk4NDUtNmRmMjg3N2JhZmU1|a9f21c71e3c63a087818a99f16bafea1fd7daafd04b2bb17984ba76b12d48dfd\"; PHPSESSID=9762pv239lvqnqo6jml6e7qfr2; username-planck-ucsc-edu-10001=\"2|1:0|10:1462401809|30:username-planck-ucsc-edu-10001|48:MWQ3YzU5ZjItZGEyZC00OTUzLTg4MmYtY2Q0YWZiNzllNDhl|83f9a44b364ea0aeaa81e53603b775bb2e9f04421c375ef9fd960fba4021dc2a\"; username-planck-ucsc-edu-10002=\"2|1:0|10:1462404413|30:username-planck-ucsc-edu-10002|48:NjhmMDU3NzEtY2NmNC00NzEyLTk2YjctNjdhOTBhNWM1ZTcw|78089ee3c9d8b8ba6f9a4866a87433d394da79624c7c5e0e9ee14c71cae5a536\"; _ga=GA1.2.1956135895.1441668190; username-planck-ucsc-edu-10003=\"2|1:0|10:1462767443|30:username-planck-ucsc-edu-10003|48:YWY3MWQ2OWMtMTAwNC00OGE2LWI2MmItODA0ZmQyZDYzMjli|1e3a49caa66bd151e9b7b5f1d640ceb71495b5141220cb413ca2e289b30e6dbb\"; username-planck-ucsc-edu-10004=\"2|1:0|10:1462767451|30:username-planck-ucsc-edu-10004|48:OTE0NWQwZDgtZGE5Zi00NTRiLWFkNWEtOTM5MWMwY2E0OTI0|073f1412c9a6abb35d09dd4745b1dd26bfd9fd8fd231fa4b05eec7d93558a112\"; username-planck-ucsc-edu-9914=\"2|1:0|10:1462908572|29:username-planck-ucsc-edu-9914|48:YzlmYzBiMzktYzUzZC00NWUxLWE4YTMtYjY1OTNhZWNiZmEy|a746670f4b8bd3dcb5be8bd447ca39074afa88e154606d17430278e00c674929\"; username-planck-ucsc-edu-9900=\"2|1:0|10:1462908725|29:username-planck-ucsc-edu-9900|48:NGQ0MmExZTktOTk4MS00ZTc5LTgyY2YtMGM0OTFkODRhN2Fj|4d5aef64b0fac172031fa9b41fefb78dde93e3733cd3876017a99009c80b18e6\""
+    }
+[E 18:15:45.161 NotebookApp] 500 POST /api/kernels/4e5f696e-b3e1-4454-b54f-ce70564f86f0/restart (24.6.90.144) 16062.99ms referer=https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb
+[W 18:15:45.378 NotebookApp] Kernel deleted before session
+[W 18:15:45.379 NotebookApp] 410 DELETE /api/sessions/dd3c8625-52cb-4ac0-9a27-f1717e5437d1 (24.6.90.144) 174.22ms referer=https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb
+[W 18:15:47.842 NotebookApp] Session not found: session_id=u'dd3c8625-52cb-4ac0-9a27-f1717e5437d1'
+[W 18:15:47.842 NotebookApp] 404 DELETE /api/sessions/dd3c8625-52cb-4ac0-9a27-f1717e5437d1 (24.6.90.144) 3.66ms referer=https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb
+[I 18:15:47.896 NotebookApp] Kernel started: aceb04fa-ccc2-4734-972a-6081c8c7c99b
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:16:25.122 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 18:18:25.119 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 19:00:25.699 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 19:48:25.229 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 20:19:39.109 NotebookApp] Creating new notebook in /notebooks
+[I 20:19:40.644 NotebookApp] Kernel started: 671882f6-05b8-43eb-8c6b-c3be9b7c0c33
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 20:21:40.646 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 20:21:48.448 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 20:30:18.151 NotebookApp] Creating new notebook in /notebooks
+[I 20:30:19.645 NotebookApp] Kernel started: daefeea2-4fe9-48dc-8ad4-4de109b275a3
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 20:32:08.253 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:33:02.978 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 20:33:26.536 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:33:35.409 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:34:19.680 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:36:19.668 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:38:19.674 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:40:19.832 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:42:20.551 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:44:20.199 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:46:19.705 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:48:22.572 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:49:00.653 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:50:23.520 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:50:57.316 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:51:06.750 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:52:23.510 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:52:55.270 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:53:28.726 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:53:33.210 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:53:53.935 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:54:03.507 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:54:23.521 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:55:24.154 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:55:36.922 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:55:43.415 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:56:16.049 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:56:28.504 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:57:07.648 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:57:15.675 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:57:54.342 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:58:05.640 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:58:23.521 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:59:05.183 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:59:15.555 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:59:20.043 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:59:24.976 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 20:59:54.926 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:00:23.601 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:02:23.529 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:04:22.472 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:06:18.127 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:07:15.257 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:07:56.496 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:08:22.474 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:10:22.541 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:12:22.479 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:14:24.033 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:16:24.036 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:16:41.012 NotebookApp] Kernel restarted: daefeea2-4fe9-48dc-8ad4-4de109b275a3
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 21:16:42.516 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:18:24.051 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:20:24.058 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:22:24.055 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:24:24.060 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:26:24.046 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:28:24.069 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:30:24.279 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:32:24.099 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:34:25.167 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:35:59.836 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:36:23.591 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:38:25.155 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:40:25.138 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:40:48.970 NotebookApp] Saving file at /notebooks/Node Summary.ipynb
+[I 21:42:25.149 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:44:25.139 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:48:25.716 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:50:21.597 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 21:50:27.083 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 22:01:40.782 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:03:40.740 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:03:41.514 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:05:40.720 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:05:56.034 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[I 22:07:41.414 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:09:41.388 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:11:41.401 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:12:21.814 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:12:32.957 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:12:51.886 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:13:04.642 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:13:13.054 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:13:41.390 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:14:10.725 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:14:24.713 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:14:29.318 NotebookApp] Kernel interrupted: aceb04fa-ccc2-4734-972a-6081c8c7c99b
+[I 22:14:47.292 NotebookApp] Kernel restarted: aceb04fa-ccc2-4734-972a-6081c8c7c99b
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 22:14:50.292 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 22:14:53.300 NotebookApp] KernelRestarter: restarting kernel (2/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 22:14:56.309 NotebookApp] KernelRestarter: restarting kernel (3/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 22:14:56.772 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:14:59.317 NotebookApp] KernelRestarter: restarting kernel (4/5)
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[W 22:15:02.325 NotebookApp] KernelRestarter: restart failed
+[W 22:15:02.325 NotebookApp] Kernel aceb04fa-ccc2-4734-972a-6081c8c7c99b died, removing from map.
+[W 22:15:02.326 NotebookApp] Restarting kernel failed: aceb04fa-ccc2-4734-972a-6081c8c7c99b
+[E 22:15:02.327 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 88, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/gen.py", line 1008, in run
+        value = future.result()
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/concurrent.py", line 232, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 3, in raise_exc_info
+    RuntimeError: Restart failed
+[E 22:15:02.328 NotebookApp] {
+      "Origin": "https://planck.ucsc.edu:10004", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate", 
+      "Host": "planck.ucsc.edu:10004", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb", 
+      "Cookie": "wp-settings-1=libraryContent%3Dbrowse%26editor%3Dhtml; wp-settings-time-1=1440101965; PS_DEVICEFEATURES=width:2560 height:1600 pixelratio:1 touch:0 geolocation:1 websockets:1 webworkers:1 datepicker:1 dtpicker:1 timepicker:1 dnd:1 sessionstorage:1 localstorage:1 history:1 canvas:1 svg:1 postmessage:1 hc:0; username-planck-ucsc-edu-10077=\"2|1:0|10:1461956296|30:username-planck-ucsc-edu-10077|48:M2ZkNDA2OWUtNGY1OS00NDk1LTk2ZWEtMjZjYzdiZjNmMGQy|aafc57998a3ccbd63abe0cf1c4e133941d5148ea0fb6c4fddeb5ee02af67f118\"; username-planck-ucsc-edu-10000=\"2|1:0|10:1462043611|30:username-planck-ucsc-edu-10000|48:YzA1NWM1NjUtNTM5NC00NmQ5LTk4NDUtNmRmMjg3N2JhZmU1|a9f21c71e3c63a087818a99f16bafea1fd7daafd04b2bb17984ba76b12d48dfd\"; PHPSESSID=9762pv239lvqnqo6jml6e7qfr2; username-planck-ucsc-edu-10001=\"2|1:0|10:1462401809|30:username-planck-ucsc-edu-10001|48:MWQ3YzU5ZjItZGEyZC00OTUzLTg4MmYtY2Q0YWZiNzllNDhl|83f9a44b364ea0aeaa81e53603b775bb2e9f04421c375ef9fd960fba4021dc2a\"; username-planck-ucsc-edu-10002=\"2|1:0|10:1462404413|30:username-planck-ucsc-edu-10002|48:NjhmMDU3NzEtY2NmNC00NzEyLTk2YjctNjdhOTBhNWM1ZTcw|78089ee3c9d8b8ba6f9a4866a87433d394da79624c7c5e0e9ee14c71cae5a536\"; _ga=GA1.2.1956135895.1441668190; username-planck-ucsc-edu-10003=\"2|1:0|10:1462767443|30:username-planck-ucsc-edu-10003|48:YWY3MWQ2OWMtMTAwNC00OGE2LWI2MmItODA0ZmQyZDYzMjli|1e3a49caa66bd151e9b7b5f1d640ceb71495b5141220cb413ca2e289b30e6dbb\"; username-planck-ucsc-edu-10004=\"2|1:0|10:1462767451|30:username-planck-ucsc-edu-10004|48:OTE0NWQwZDgtZGE5Zi00NTRiLWFkNWEtOTM5MWMwY2E0OTI0|073f1412c9a6abb35d09dd4745b1dd26bfd9fd8fd231fa4b05eec7d93558a112\"; username-planck-ucsc-edu-9914=\"2|1:0|10:1462908572|29:username-planck-ucsc-edu-9914|48:YzlmYzBiMzktYzUzZC00NWUxLWE4YTMtYjY1OTNhZWNiZmEy|a746670f4b8bd3dcb5be8bd447ca39074afa88e154606d17430278e00c674929\"; username-planck-ucsc-edu-9900=\"2|1:0|10:1462908725|29:username-planck-ucsc-edu-9900|48:NGQ0MmExZTktOTk4MS00ZTc5LTgyY2YtMGM0OTFkODRhN2Fj|4d5aef64b0fac172031fa9b41fefb78dde93e3733cd3876017a99009c80b18e6\""
+    }
+[E 22:15:02.329 NotebookApp] 500 POST /api/kernels/aceb04fa-ccc2-4734-972a-6081c8c7c99b/restart (24.6.90.144) 16056.01ms referer=https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb
+[W 22:15:02.378 NotebookApp] Kernel deleted before session
+[W 22:15:02.378 NotebookApp] 410 DELETE /api/sessions/c59c5a4c-748d-46ea-8550-7e95b8ceefde (24.6.90.144) 4.05ms referer=https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb
+[W 22:15:04.875 NotebookApp] Session not found: session_id=u'c59c5a4c-748d-46ea-8550-7e95b8ceefde'
+[W 22:15:04.876 NotebookApp] 404 DELETE /api/sessions/c59c5a4c-748d-46ea-8550-7e95b8ceefde (24.6.90.144) 3.52ms referer=https://planck.ucsc.edu:10004/notebooks/notebooks/Joint%20Kalman%20Filter.ipynb
+[I 22:15:04.930 NotebookApp] Kernel started: adb71796-9214-499d-bebc-ceac1d9ac29b
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:15:06.601 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:15:11.741 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:15:41.387 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:15:57.825 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:16:25.160 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:16:33.027 NotebookApp] Kernel interrupted: adb71796-9214-499d-bebc-ceac1d9ac29b
+[I 22:17:08.518 NotebookApp] Kernel interrupted: adb71796-9214-499d-bebc-ceac1d9ac29b
+[I 22:18:25.159 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:18:27.639 NotebookApp] Kernel interrupted: adb71796-9214-499d-bebc-ceac1d9ac29b
+[I 22:18:59.885 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:20:25.151 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 22:21:43.034 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:22:21.919 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:22:50.668 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:23:41.317 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:25:41.294 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:26:09.944 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:26:21.355 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:27:41.389 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:28:47.939 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:29:25.958 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:29:38.395 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:29:41.397 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:30:19.438 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:30:31.423 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:31:41.333 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:32:22.457 NotebookApp] Kernel interrupted: 671882f6-05b8-43eb-8c6b-c3be9b7c0c33
+[I 22:32:43.579 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:32:50.116 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:33:41.324 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:35:41.467 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:37:06.530 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:37:41.558 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:39:41.358 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:41:41.416 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:43:41.386 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:45:32.727 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:45:41.346 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:47:41.598 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:49:41.462 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.15788D+05    |proj g|=  3.99908D+00
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.15788D+05    |proj g|=  3.99908D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     46     21     0    10   3.999D+00   2.158D+05
+  F =   215788.24784574512     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     52     21     0    10   4.000D+00   2.160D+05
+  F =   216035.75628071371     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.16018D+05    |proj g|=  3.99959D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     46     21     0    10   4.000D+00   2.160D+05
+  F =   216018.43612250793     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      1     21     10     0    10   4.000D+00   2.160D+05
+  F =   216035.75755598434     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.15972D+05    |proj g|=  3.99940D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     46     21     0    10   3.999D+00   2.160D+05
+  F =   215972.25914711555     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.16028D+05    |proj g|=  3.99961D+00
+
+At iterate    2    f=  2.16028D+05    |proj g|=  3.99961D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     26     11     0     0   4.000D+00   2.160D+05
+  F =   216027.62355863862     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.16025D+05    |proj g|=  3.99961D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     46     21     0    10   4.000D+00   2.160D+05
+  F =   216024.67932825483     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+[I 22:51:41.461 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:54:42.599 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:55:07.493 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:55:41.464 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:57:17.335 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 22:57:20.325 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:00:30.910 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:00:41.581 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:01:41.469 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:03:41.466 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:03:59.368 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:04:21.265 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:04:27.722 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:04:48.330 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:05:25.090 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:05:36.780 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:05:41.447 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:06:25.173 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 23:06:55.793 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:07:41.468 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:09:41.460 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:10:48.272 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:11:41.465 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:12:53.129 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:13:14.952 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:13:29.297 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:13:41.461 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:14:30.247 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:15:11.450 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:15:41.464 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:15:58.954 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:16:25.169 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 23:17:41.467 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:18:25.168 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 23:19:56.422 NotebookApp] Kernel interrupted: adb71796-9214-499d-bebc-ceac1d9ac29b
+[I 23:20:25.166 NotebookApp] Saving file at /notebooks/Joint Kalman Filter.ipynb
+[I 23:21:15.172 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:21:23.284 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:21:39.787 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:23:41.459 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:25:16.040 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:25:41.454 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:27:41.530 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:27:43.829 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 23:29:27.875 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.15906D+05    |proj g|=  3.99941D+00
+
+At iterate    2    f=  2.15880D+05    |proj g|=  3.99910D+00
+
+At iterate    3    f=  2.15864D+05    |proj g|=  3.99715D+00
+
+At iterate    4    f=  2.15718D+05    |proj g|=  3.00453D+00
+
+At iterate    5    f=  2.12782D+05    |proj g|=  3.02283D+00
+
+At iterate    6    f=  2.12414D+05    |proj g|=  3.02689D+00
+
+At iterate    7    f=  2.10512D+05    |proj g|=  3.03149D+00
+
+At iterate    8    f=  2.03945D+05    |proj g|=  3.05319D+00
+
+At iterate    9    f=  2.03551D+05    |proj g|=  3.05719D+00
+
+At iterate   10    f=  2.03011D+05    |proj g|=  3.06066D+00
+
+At iterate   11    f=  2.02544D+05    |proj g|=  3.06967D+00
+
+At iterate   12    f=  2.02262D+05    |proj g|=  3.07107D+00
+
+At iterate   13    f=  2.01908D+05    |proj g|=  2.99650D+00
+
+At iterate   14    f=  2.01908D+05    |proj g|=  2.99650D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10     14     42     23     0     0   2.996D+00   2.019D+05
+  F =   201908.47393912674     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.15922D+05    |proj g|=  3.99913D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     46     21     0    10   3.999D+00   2.159D+05
+  F =   215922.30310287836     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+At iterate    1    f=  2.16036D+05    |proj g|=  4.00000D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     53     21     0    10   4.000D+00   2.160D+05
+  F =   216035.75578967459     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.17134D+06    |proj g|=  4.00000D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      1     21     10     0    10   4.000D+00   1.171D+06
+  F =   1171339.9972959612     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.17134D+06    |proj g|=  4.00000D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      1     21     10     0    10   4.000D+00   1.171D+06
+  F =   1171339.9972959612     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.17134D+06    |proj g|=  4.00000D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      1     21     10     0    10   4.000D+00   1.171D+06
+  F =   1171339.9972959612     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.17134D+06    |proj g|=  4.00000D+00
+
+At iterate    1    f=  1.17115D+06    |proj g|=  3.99987D+00
+  ys=-5.878E+08  -gs= 9.145E+04 BFGS update SKIPPED
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+   10      2     38     20     1    10   4.000D+00   1.171D+06
+  F =   1171154.3882633506     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =           10     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+[W 01:09:32.415 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 01:09:35.951 NotebookApp] WebSocket ping timeout after 119978 ms.
+[E 01:09:37.455 NotebookApp] Uncaught exception GET /api/kernels/adb71796-9214-499d-bebc-ceac1d9ac29b/channels?session_id=066A235148624DCCBEACB706A9CF530F (24.6.90.144)
+    HTTPServerRequest(protocol='https', host='planck.ucsc.edu:10004', method='GET', uri='/api/kernels/adb71796-9214-499d-bebc-ceac1d9ac29b/channels?session_id=066A235148624DCCBEACB706A9CF530F', version='HTTP/1.1', remote_ip='24.6.90.144', headers={'Origin': 'https://planck.ucsc.edu:10004', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch', 'Sec-Websocket-Version': '13', 'Host': 'planck.ucsc.edu:10004', 'Sec-Websocket-Key': 'pdJOmc4gKKo8cyyjkAtIkA==', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36', 'Connection': 'Upgrade', 'Cookie': 'wp-settings-1=libraryContent%3Dbrowse%26editor%3Dhtml; wp-settings-time-1=1440101965; PS_DEVICEFEATURES=width:2560 height:1600 pixelratio:1 touch:0 geolocation:1 websockets:1 webworkers:1 datepicker:1 dtpicker:1 timepicker:1 dnd:1 sessionstorage:1 localstorage:1 history:1 canvas:1 svg:1 postmessage:1 hc:0; username-planck-ucsc-edu-10077="2|1:0|10:1461956296|30:username-planck-ucsc-edu-10077|48:M2ZkNDA2OWUtNGY1OS00NDk1LTk2ZWEtMjZjYzdiZjNmMGQy|aafc57998a3ccbd63abe0cf1c4e133941d5148ea0fb6c4fddeb5ee02af67f118"; username-planck-ucsc-edu-10000="2|1:0|10:1462043611|30:username-planck-ucsc-edu-10000|48:YzA1NWM1NjUtNTM5NC00NmQ5LTk4NDUtNmRmMjg3N2JhZmU1|a9f21c71e3c63a087818a99f16bafea1fd7daafd04b2bb17984ba76b12d48dfd"; PHPSESSID=9762pv239lvqnqo6jml6e7qfr2; username-planck-ucsc-edu-10001="2|1:0|10:1462401809|30:username-planck-ucsc-edu-10001|48:MWQ3YzU5ZjItZGEyZC00OTUzLTg4MmYtY2Q0YWZiNzllNDhl|83f9a44b364ea0aeaa81e53603b775bb2e9f04421c375ef9fd960fba4021dc2a"; username-planck-ucsc-edu-10002="2|1:0|10:1462404413|30:username-planck-ucsc-edu-10002|48:NjhmMDU3NzEtY2NmNC00NzEyLTk2YjctNjdhOTBhNWM1ZTcw|78089ee3c9d8b8ba6f9a4866a87433d394da79624c7c5e0e9ee14c71cae5a536"; _ga=GA1.2.1956135895.1441668190; username-planck-ucsc-edu-10003="2|1:0|10:1462767443|30:username-planck-ucsc-edu-10003|48:YWY3MWQ2OWMtMTAwNC00OGE2LWI2MmItODA0ZmQyZDYzMjli|1e3a49caa66bd151e9b7b5f1d640ceb71495b5141220cb413ca2e289b30e6dbb"; username-planck-ucsc-edu-10004="2|1:0|10:1462767451|30:username-planck-ucsc-edu-10004|48:OTE0NWQwZDgtZGE5Zi00NTRiLWFkNWEtOTM5MWMwY2E0OTI0|073f1412c9a6abb35d09dd4745b1dd26bfd9fd8fd231fa4b05eec7d93558a112"; username-planck-ucsc-edu-9914="2|1:0|10:1462908572|29:username-planck-ucsc-edu-9914|48:YzlmYzBiMzktYzUzZC00NWUxLWE4YTMtYjY1OTNhZWNiZmEy|a746670f4b8bd3dcb5be8bd447ca39074afa88e154606d17430278e00c674929"; username-planck-ucsc-edu-9900="2|1:0|10:1462908725|29:username-planck-ucsc-edu-9900|48:NGQ0MmExZTktOTk4MS00ZTc5LTgyY2YtMGM0OTFkODRhN2Fj|4d5aef64b0fac172031fa9b41fefb78dde93e3733cd3876017a99009c80b18e6"', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 349, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 260, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/carlson/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[W 01:09:42.048 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 01:09:44.690 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 01:09:46.340 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 09:35:57.519 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 09:37:57.312 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 09:39:57.308 NotebookApp] Saving file at /notebooks/Temperature.ipynb
+[I 09:48:11.067 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:48:18.100 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:48:41.028 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:49:46.486 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:50:03.683 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:50:35.762 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:50:41.421 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:52:40.997 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:52:49.809 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:53:37.600 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:54:10.209 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:54:16.473 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:54:21.827 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:54:41.216 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:56:04.574 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:56:41.045 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 09:58:41.007 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:00:41.022 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:02:40.965 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:03:07.993 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:04:44.216 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:06:39.419 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:08:39.448 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:08:48.491 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:09:37.038 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:10:39.432 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:11:03.669 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:11:05.272 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:12:39.443 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:14:39.447 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:16:19.545 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:16:39.459 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:17:28.117 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:20:39.467 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:22:24.928 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:22:41.301 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:22:43.348 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:23:46.539 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:24:40.128 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:28:39.451 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:30:32.534 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:32:38.222 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:34:39.469 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:36:39.469 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:38:21.833 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:38:39.439 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:39:25.609 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:39:59.445 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:40:36.442 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:42:36.465 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:44:53.710 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:46:37.716 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:46:38.174 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:48:36.938 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:50:08.009 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:50:36.946 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:51:58.998 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:52:36.935 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:52:39.067 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:54:32.665 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:56:36.942 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 10:58:36.999 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:00:36.999 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:02:37.018 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:03:28.307 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:04:37.488 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:05:05.619 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:05:29.070 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:06:37.434 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:08:37.010 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:10:39.942 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:12:43.167 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:14:21.000 NotebookApp] Kernel restarted: daefeea2-4fe9-48dc-8ad4-4de109b275a3
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:14:39.953 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:16:40.021 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:17:46.422 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:18:41.868 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:20:41.897 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:26:42.519 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:28:02.313 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:28:39.064 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:28:46.615 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:28:52.982 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:29:24.338 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:29:39.676 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:29:50.814 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:29:56.635 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:03.675 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:11.283 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:17.821 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:25.298 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:35.060 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:39.510 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:30:54.543 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:31:07.961 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:32:41.361 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:34:36.364 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:36:41.416 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
+[I 11:38:41.557 NotebookApp] Saving file at /notebooks/Slope and Aspect.ipynb
