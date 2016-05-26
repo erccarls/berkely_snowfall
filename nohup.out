@@ -4335,3 +4335,42 @@ At X0         0 variables are exactly at the bounds
 [I 18:59:34.507 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
 [I 19:00:00.403 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
 [I 19:00:12.288 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[W 02:48:46.768 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 02:48:49.268 NotebookApp] WebSocket ping timeout after 119983 ms.
+[W 02:48:49.816 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 02:49:05.189 NotebookApp] WebSocket ping timeout after 119983 ms.
+[W 02:49:12.779 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 11:06:19.966 NotebookApp] 302 GET / (24.6.90.144) 0.78ms
+[I 13:26:44.089 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:26:56.448 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:27:05.059 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:28:39.975 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:28:44.048 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:29:40.076 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:30:44.041 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:31:15.700 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:31:48.407 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:32:44.045 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:33:50.771 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:36:44.049 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:38:44.038 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:40:44.445 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:41:00.020 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 13:41:06.374 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[W 00:52:58.830 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 00:53:14.205 NotebookApp] WebSocket ping timeout after 119984 ms.
+[W 23:51:39.237 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 23:51:53.503 NotebookApp] WebSocket ping timeout after 119984 ms.
+[C 13:52:36.315 NotebookApp] received signal 15, stopping
+[I 13:52:36.318 NotebookApp] Shutting down kernels
+[I 13:52:37.347 NotebookApp] Kernel shutdown: adb71796-9214-499d-bebc-ceac1d9ac29b
+[I 13:52:38.149 NotebookApp] Kernel shutdown: 37372e07-d7d6-4651-937d-0a16396075e1
+[I 13:52:38.149 NotebookApp] Kernel shutdown: 0a57cd9c-38c5-4172-9268-c049cd88f5e3
+[I 13:52:38.550 NotebookApp] Kernel shutdown: 925b2db0-1041-4069-8223-a5cecb44b017
+[I 13:52:38.952 NotebookApp] Kernel shutdown: e2477ece-63c4-44e2-aace-a0420a70d383
+[I 13:52:38.952 NotebookApp] Kernel shutdown: daefeea2-4fe9-48dc-8ad4-4de109b275a3
+[I 13:52:39.253 NotebookApp] Kernel shutdown: 3edb23db-21af-4330-80ab-06f8708e0538
+[I 13:52:39.253 NotebookApp] Kernel shutdown: e07adba1-2c30-4476-8b49-a3b0dcffd267
+[I 13:52:39.254 NotebookApp] Kernel shutdown: 671882f6-05b8-43eb-8c6b-c3be9b7c0c33
+[I 13:52:39.254 NotebookApp] Kernel shutdown: 8bfc0bfe-8221-41ea-b3c4-3e7ca1837f4e
+[I 13:52:39.856 NotebookApp] Kernel shutdown: 307354a4-0650-45e3-ae14-0bc22f83dc9d
