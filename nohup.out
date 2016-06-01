@@ -4374,3 +4374,96 @@ At X0         0 variables are exactly at the bounds
 [I 13:52:39.254 NotebookApp] Kernel shutdown: 671882f6-05b8-43eb-8c6b-c3be9b7c0c33
 [I 13:52:39.254 NotebookApp] Kernel shutdown: 8bfc0bfe-8221-41ea-b3c4-3e7ca1837f4e
 [I 13:52:39.856 NotebookApp] Kernel shutdown: 307354a4-0650-45e3-ae14-0bc22f83dc9d
+[I 19:56:48.624 NotebookApp] Serving notebooks from local directory: /data/TIM209_kalman
+[I 19:56:48.664 NotebookApp] 0 active kernels 
+[I 19:56:48.665 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 19:56:48.665 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 19:57:00.065 NotebookApp] 302 GET / (98.210.100.33) 1.25ms
+[I 19:57:00.085 NotebookApp] 302 GET /tree (98.210.100.33) 1.65ms
+[I 19:57:03.103 NotebookApp] 302 POST /login?next=%2Ftree (98.210.100.33) 1.88ms
+[I 19:57:08.561 NotebookApp] Kernel started: a0ee3f37-5985-47e1-a95e-1a7f3bab6f4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 20:13:16.657 NotebookApp] Kernel started: 36e93b66-ba8c-4930-af25-3ad16c7793c9
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[C 20:52:03.061 NotebookApp] received signal 15, stopping
+[I 20:52:03.062 NotebookApp] Shutting down kernels
+[I 20:52:03.765 NotebookApp] Kernel shutdown: a0ee3f37-5985-47e1-a95e-1a7f3bab6f4a
+[I 20:52:03.766 NotebookApp] Kernel shutdown: 36e93b66-ba8c-4930-af25-3ad16c7793c9
+[I 20:53:06.383 NotebookApp] Serving notebooks from local directory: /data/TIM209_kalman
+[I 20:53:06.383 NotebookApp] 0 active kernels 
+[I 20:53:06.383 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 20:53:06.383 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:53:36.052 NotebookApp] received signal 15, stopping
+[I 20:53:36.053 NotebookApp] Shutting down kernels
+[I 20:54:01.459 NotebookApp] Serving notebooks from local directory: /data/TIM209_kalman
+[I 20:54:01.460 NotebookApp] 0 active kernels 
+[I 20:54:01.460 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 20:54:01.460 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:54:13.294 NotebookApp] Kernel started: 03b68ea3-7ea9-49ab-b5fa-a7096740705c
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 20:56:13.990 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[I 21:13:36.482 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[I 21:26:13.972 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[I 21:28:14.200 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[I 21:42:14.383 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[I 21:44:14.215 NotebookApp] Saving file at /notebooks/Preprocessing.ipynb
+[W 21:54:56.622 NotebookApp] Notebook notebooks/Kalman Filter.ipynb is not trusted
+[I 21:54:57.471 NotebookApp] Kernel started: 98b41170-d968-46f1-9318-5e00264ba388
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:20:58.821 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:20:58.823 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:22:58.619 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:22:58.621 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:26:58.619 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:26:58.620 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:30:58.574 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:30:58.575 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:32:58.573 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:32:58.574 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:34:58.574 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:34:58.575 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:36:58.607 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:36:58.608 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:38:58.596 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:38:58.597 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 22:40:58.617 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 22:40:58.618 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:02:02.464 NotebookApp] Kernel started: 0555fb46-ce59-4272-bf92-0385b47959c3
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 23:02:38.280 NotebookApp] Kernel started: c118f588-e968-47ae-9adc-f58ac05e82b8
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 23:02:58.652 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:02:58.653 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:04:58.563 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:04:58.564 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:06:58.667 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:06:58.668 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:08:05.158 NotebookApp] Kernel interrupted: 98b41170-d968-46f1-9318-5e00264ba388
+[I 23:08:58.673 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:08:58.674 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:10:58.530 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:10:58.531 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[I 23:12:58.681 NotebookApp] Saving file at /notebooks/Kalman Filter.ipynb
+[W 23:12:58.682 NotebookApp] Saving untrusted notebook notebooks/Kalman Filter.ipynb
+[W 01:02:28.511 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 01:02:39.106 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 01:02:44.097 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 09:40:55.659 NotebookApp] Kernel started: d67265b6-fa97-4614-9c63-4cf1fb332dc7
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 09:43:06.360 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:44:33.030 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:45:06.317 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:47:06.403 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:47:18.032 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:49:06.310 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:50:02.478 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:50:59.077 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:51:08.858 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb
+[I 09:51:21.760 NotebookApp] Saving file at /notebooks/Joint Differential Kalman Filter.ipynb

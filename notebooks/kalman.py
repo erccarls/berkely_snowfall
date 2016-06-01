@@ -83,17 +83,33 @@ class Kalman():
         self.sigma = sigma_0 # Initial state covariance 
         self.state_labels = state_labels
         
-    def predict(self, u=None): 
-        ''' Murphy Sec. 18.3.1.1'''
+    def predict(self, u=None, A=None): 
+        ''' Predict step for the Kalman filter.  See Murphy Sec. 18.3.1.1
         
+        Parameters
+        ----------
+        u : np.array(dim_u)
+            control input at the current timestep
+
+        '''
+        
+        # Here we need to check for missing values.  If an observation is missing,
+        # then the transition matrix A needs to be modified to impute the missing values.
+        # Differentials and differential velocites should not be imputed, but just maintain the track. 
+        # Eventually, A might be some non-stationary matrix which depends on the present system state 
+        # or external inputs such as temp/cloud-cover/etc.. 
+        # if nan_mask is not None
+        if A is None: 
+            A = self.A
+
         # Predicted state covariance 
-        self.sigma = np.dot(np.dot(self.A, self.sigma), self.A.T) + self.Q
+        self.sigma = np.dot(np.dot(A, self.sigma), self.A.T) + self.Q
         
         # if there is no control input do not include it 
         if u is None:
-            self.mu = np.dot(self.A, self.mu)  # Predict state mean 
+            self.mu = np.dot(A, self.mu)  # Predict state mean 
         else:
-            self.mu = np.dot(self.A, self.mu) + np.dot(self.B, self.u)
+            self.mu = np.dot(A, self.mu) + np.dot(self.B, self.u)
 
         
     def update(self, Y):
